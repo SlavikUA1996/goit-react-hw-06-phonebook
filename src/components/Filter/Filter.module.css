@@ -1,1 +1,8 @@
-
+label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+  color: rgba(51, 51, 51, 0.8);
+}
